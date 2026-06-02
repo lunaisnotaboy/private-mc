@@ -20,6 +20,11 @@ hash = "f53692469637eda8ca8e113738fc02e4a08a2093781da80c96c8fdf0671b65b2"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
@@ -130,6 +135,11 @@ hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
 metafile = true
 
 [[files]]
+file = "mods/gently-holds.pw.toml"
+hash = "7614c9fc73d6df1ae673e6381f3e99cb710c00108b1f6697ea0feac976b8f4ef"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -152,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "60300c6873d127b49ba31b11abc8fa7ac65008480c21c0db4c36d46db25426c5"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "1939889ce0f89529253d5a699e002443d28c63f3942376b274fe4acd379eeba5"
 metafile = true
 
 [[files]]
