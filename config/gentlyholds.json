@@ -1,0 +1,8 @@
+{
+  "entityRestriction": "NON_BOSS",
+  "maxWidth": 4.0,
+  "maxHeight": 4.0,
+  "emptyHands": true,
+  "spawnDrop": true,
+  "canWearHat": true
+}
