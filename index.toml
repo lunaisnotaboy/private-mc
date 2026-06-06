@@ -218,6 +218,11 @@ hash = "d0689a67ea7e3790b73cdebd2e0776c5f80b60d6d5e980d58740a153be5a2138"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "0f8b748652e9adeb12bb3622aed810d3a536a48919d42e319fcb3d07c43974e3"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "8283001de6699f5d588e4f0105e4e0e38b26ecde6cccf372372c1f0e698275c2"
 metafile = true
