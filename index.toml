@@ -188,6 +188,11 @@ hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
 
 [[files]]
+file = "mods/mining-dimensions-fabric.pw.toml"
+hash = "f0ae55430a36a8f9c98854c09ecff351f123ba7194b00b66629e61e7f90bf150"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
