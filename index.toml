@@ -118,6 +118,11 @@ hash = "c042c8372e4ce2bc4aa4e54d8ddb54f7fbc4ae68a3916b7a20216d2ae1692282"
 metafile = true
 
 [[files]]
+file = "mods/cucumber-library-refabricated.pw.toml"
+hash = "308669761fcdca63ce3f654f75f3c50ce1e9685a6ba214abb6fcd1405caed2bd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
 metafile = true
@@ -203,6 +208,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture-refabricated.pw.toml"
+hash = "1f1e26a4bc5a978811c569b6b0eb7ba199d49a6987eb5d44fa08ae5fd254faf9"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
@@ -220,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "0f8b748652e9adeb12bb3622aed810d3a536a48919d42e319fcb3d07c43974e3"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "bcb83b158680f84663d3eee587b1e0cccb2c981986203cdea66898a0915ab3ea"
 metafile = true
 
 [[files]]
