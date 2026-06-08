@@ -1,0 +1,13 @@
+name = "Every Mining Dimension"
+filename = "Every_Mining_Dimension1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CbHJ6nd4/versions/8wNVTlqY/Every_Mining_Dimension1.0.1.jar"
+hash-format = "sha512"
+hash = "ae3e6b8abe5e6adebe95731626336238b9c389de53478de4a6e4e050b423e8cfb175b0d6f5c3b56809161aafe948bbe1126b4ca5a1fddffbb4695de73c47d28f"
+
+[update]
+[update.modrinth]
+mod-id = "CbHJ6nd4"
+version = "8wNVTlqY"

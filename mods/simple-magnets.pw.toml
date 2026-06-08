@@ -1,13 +1,13 @@
 name = "Simple Magnets"
-filename = "simplemagnets-1.1.12-fabric-mc1.20.1.jar"
+filename = "simplemagnets-1.1.12-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YyNQVpOu/versions/Kh9ezZdR/simplemagnets-1.1.12-fabric-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/YyNQVpOu/versions/Sg3Svl6F/simplemagnets-1.1.12-forge-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "63aab590c269b71a8f623a1e80d5e3cf354a23d33504ed8fe66b52a683bfe4efc6d692d2d0349c2c91f2d64e3af3c90898e88aec8d63cebdbb412d0a30bf4c1c"
+hash = "3d75d79cfa07d8270aca50c2de29d3405fed4b5182c3e6b0d51832cbe83b75659ffdf201b57312503fa2803398f0d59d9ed9516669b3883303a8451bfdce7613"
 
 [update]
 [update.modrinth]
 mod-id = "YyNQVpOu"
-version = "Kh9ezZdR"
+version = "Sg3Svl6F"

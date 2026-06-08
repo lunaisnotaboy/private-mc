@@ -1,13 +1,13 @@
 name = "Luna's Private Minecraft Modpack"
-author = "Luna Nova"
+author = "Luna Nova and Pearl Null"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "558ba2772731360466508c60cd1860f8eb0ca6885a8a0a944247a7b628a4faa9"
+hash = "3aea27767fcfbfc36d40e64eb48986ae11914529d948a3784921266ab8c6bd95"
 
 [versions]
-fabric = "0.19.2"
+forge = "47.4.10"
 minecraft = "1.20.1"
