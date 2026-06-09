@@ -13,6 +13,10 @@ file = "icon.png"
 hash = "60ca3a957beb489189ca4b8ebb13951bbbfa46e490b8858f8b1cd1daf11e21c7"
 
 [[files]]
+file = "message(10).txt"
+hash = "c2fc90216bf6d6cd9342f7fcf30a8517e70e216cf9826f8a7e0c461beb81f1a3"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
@@ -60,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
 
 [[files]]
@@ -115,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "6292625ed60e17068f3e7927d26c75053b64269c922f10b1c87ceea51ccb194e"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "20c32f8edb2bb36f9311d01857856948c249e7a22aca8868942c525678f3c3cc"
 metafile = true
 
 [[files]]
@@ -203,6 +217,11 @@ hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
 
 [[files]]
+file = "mods/mekanism.pw.toml"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
 metafile = true
@@ -210,6 +229,21 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "0de4d1838b3c12c97c5e83c3e12751d8b61046199c4f3edfcea9c487f046cd17"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "2993c750abc8c7fda26fe8ec2be8692e041dd2bdf1a002d67bbc08e5f3058d1b"
+metafile = true
+
+[[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "09ebc3da0ec837f593c0e77adb6815ed3b3ad4bc4e675593c187d02dcb65fece"
 metafile = true
 
 [[files]]
@@ -270,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
 hash = "79590ef35db62ef627af23ea90854230b8b5d403ddfd8df8b8fc4718452552e2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
 metafile = true
 
 [[files]]
