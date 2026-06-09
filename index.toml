@@ -158,6 +158,11 @@ hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
+file = "mods/fullbright-forge.pw.toml"
+hash = "383a0b7268f7ef509c9345ca7a51bf2bd86677b9b04f6131c69d8c93678bd5e4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
 metafile = true
