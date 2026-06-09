@@ -13,10 +13,6 @@ file = "icon.png"
 hash = "60ca3a957beb489189ca4b8ebb13951bbbfa46e490b8858f8b1cd1daf11e21c7"
 
 [[files]]
-file = "message(10).txt"
-hash = "c2fc90216bf6d6cd9342f7fcf30a8517e70e216cf9826f8a7e0c461beb81f1a3"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
