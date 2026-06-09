@@ -18,6 +18,11 @@ hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
 
 [[files]]
+file = "mods/amber.pw.toml"
+hash = "aa91c87a12a4b60a2bb7e4cbf70a43b702c3aa6ee584b944f021f36e95c57d3d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -220,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+metafile = true
+
+[[files]]
+file = "mods/liteminer.pw.toml"
+hash = "95f8519ab142c620da002625f04c4547f19f0fcf0e3482aaa9cb6d444b2e0e92"
 metafile = true
 
 [[files]]
