@@ -28,6 +28,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/applied-create.pw.toml"
+hash = "bd017ad7df315d9c35b5706f008b00c6a532e49802f3bb1dabc56a9cca0a15b1"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "36c1d9057db42df7c2573c8673bef9a2d6ac0c43599ee0f8209573bbd3dd3bcf"
 metafile = true
@@ -58,6 +63,11 @@ hash = "b404683b35d437b78af928df1ee02ffccb05c2f1f60c8f2701e7f69ae6b42d35"
 metafile = true
 
 [[files]]
+file = "mods/chicken-chunks.pw.toml"
+hash = "b8c4cbfb4df67b7269d252b4228ed4bec174646e20a9143122363c06b99369f2"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "52bd19e369b21423c960992c0750e630fa9166b27b049cdca523399d342affd5"
 metafile = true
@@ -75,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -250,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
