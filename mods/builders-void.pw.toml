@@ -1,0 +1,13 @@
+name = "Builder's Void"
+filename = "buildersvoid-forge-20.1.0-beta1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i9ljQ5sI/versions/51itM68R/buildersvoid-forge-20.1.0-beta1-1.20.1.jar"
+hash-format = "sha512"
+hash = "75a92f3f4eefa5d77e66e24bc7185bc9c4b1e6ac0590beff4df15df724a2e511bbbe281bad258cf98f3333e0f1f391c60639c8eafb23155df0feca94cb668060"
+
+[update]
+[update.modrinth]
+mod-id = "i9ljQ5sI"
+version = "51itM68R"
