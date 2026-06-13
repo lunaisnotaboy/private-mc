@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fullbright-forge.pw.toml"
-hash = "383a0b7268f7ef509c9345ca7a51bf2bd86677b9b04f6131c69d8c93678bd5e4"
+hash = "9e73d8de991ba663adc1f0badafb5d561607d08d16e402f744483d83c6aecd41"
 metafile = true
 
 [[files]]
