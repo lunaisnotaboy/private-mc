@@ -293,6 +293,11 @@ hash = "95f8519ab142c620da002625f04c4547f19f0fcf0e3482aaa9cb6d444b2e0e92"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "976e9c737f3dd39812d87bc8dd8082197a77aeb5e08f5082d22643ac36f46a4f"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "e8e2b582e52ac13e3cd67cb2c8be853003625903c4040585ad60e1dbb0f2c48f"
 metafile = true
