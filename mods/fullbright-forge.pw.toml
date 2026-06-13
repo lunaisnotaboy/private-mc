@@ -14,5 +14,5 @@ version = "BtCu6IpN"
 
 [option]
 optional = true
-description = "Mod to allow toggling fullbright"
+description = "fullbright mod with a keybind to toggle it"
 default = false
