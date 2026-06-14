@@ -349,12 +349,17 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "b087d57e8f876873a4eaeacdb80166c03e5158fa95cb15ffe6aa9571b76bf9d2"
+hash = "2242b76f7c4ee6d7f396a2d1380bee615d78408d00bff5cca38e4df777b18dc5"
 metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "5f62a327932de16d603c5d922ff655069ac8fd8ccffb5f3f8b23f6cda4c04da0"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "ebf8fb25a5a9cb17121a987d40b8ba2a5e5bcf55195dfebedaafe15162bb162f"
 metafile = true
 
 [[files]]
@@ -379,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "fae5a07f49f9c7ce873cca73d9d4508885d301c574e0ce5b2d7abad8e43102c5"
+hash = "d72058e7771a33caa72dcf23e96ac9708feaa4585a8f2cbbf625c5f5fcb8b72b"
 metafile = true
 
 [[files]]
@@ -414,17 +419,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "49d9763f5f76fb7b60a5d3858b398fe3c58f3cbe678f3372c50484184b262554"
+hash = "bf624091fcb4ed6deca262831dd93135f7c6ead32799f2073c8fbc10a8d3ad6f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "38b987b54c0b5405a89465bf16613a283740650122ac373fc365cd13afe5eb69"
+hash = "f3a2a8bdfc106e112ad66e3ada24aefd9a2ecd96e4952e69389b6a3c1b633cc2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7bc86ce52ef42d948462c04658553448e5e909fb952f4b485e375d435c3ec751"
+hash = "43e3437707450b746d7d9fae94dfb54941b1a0459f76cd4d23ed4d848ab0796e"
 metafile = true
 
 [[files]]
@@ -434,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
-hash = "5ca8b1dd51101e1b9a7becc9b74b9ae393169d967cd327c3bb8ac5282d2ac83a"
+hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
 
 [[files]]
