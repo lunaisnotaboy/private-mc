@@ -13,8 +13,18 @@ file = "icon.png"
 hash = "60ca3a957beb489189ca4b8ebb13951bbbfa46e490b8858f8b1cd1daf11e21c7"
 
 [[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "d8691ae51962aee90cefa370c41d5f30f4449c8eabef6ffc69c825e20dcf2beb"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e380187cf1daf27828ecba14a0752da077a84a588c8a46bf93eb7e3e7d41a386"
 metafile = true
 
 [[files]]
@@ -370,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "93128d85ae0b3be9c8248b09f3a63ed88c746568480cc7e9a8e2a9b4bd13477c"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "10438fc3a2005f321ce674bb55876b29f071ad705b3088f11b279140cb6c6cfe"
 metafile = true
 
 [[files]]
