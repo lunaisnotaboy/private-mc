@@ -18,6 +18,11 @@ hash = "d8691ae51962aee90cefa370c41d5f30f4449c8eabef6ffc69c825e20dcf2beb"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
@@ -70,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/builders-void.pw.toml"
 hash = "bbcbea4bc3d8353c9d71220eb3cadf734a654f7a421940442584ee2afb74a874"
+metafile = true
+
+[[files]]
+file = "mods/cc-shenanigans.pw.toml"
+hash = "d30df1a0fc5dfaeb98ff01fa460dd8f034cba9d4f9c1f82da7b02610f7eb7c06"
 metafile = true
 
 [[files]]
@@ -128,6 +138,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "c95b3c212988a337532ce201be4d96b906b8d74c831dd6314566183fcfc77c08"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
 metafile = true
@@ -165,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d584896433cab9fdba6034182ce0f8376cfd5eb1255fa98ed47e535b94f7674b"
 metafile = true
 
 [[files]]
@@ -318,8 +338,18 @@ hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "2c11bde21d3a730ba706278c12339f4a8bbe2fac46b7e110f409a18c408a3537"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "0f4e587bcc73bdb780a04082c509cf5a758ff5b8b25380673606d6150297033a"
 metafile = true
 
 [[files]]
@@ -430,6 +460,21 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "ed1d7661a3dab31bd53da54e8cdc070dd4e17a115b80e699525b6f9521493588"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "b606df4e35b39785a7e02c05f31014877fa3cf1448a2f3e8797e557b19a80fa5"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
 metafile = true
 
 [[files]]
